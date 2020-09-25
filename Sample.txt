@@ -1,2 +1,2 @@
-this is sample in feature branch
+this is sample in new feature branch woriking on new
 
